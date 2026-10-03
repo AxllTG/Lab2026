@@ -1,0 +1,7 @@
+978-0-553-29335-7;Fundación;Isaac Asimov;Ciencia Ficción;1951;4
+978-0-345-39180-0;El nombre del viento;Patrick Rothfuss;Fantasía;2007;2
+978-0-7653-2635-5;El problema de los tres cuerpos;Liu Cixin;Ciencia Ficción;2008;3
+978-0-441-01359-3;Dune;Frank Herbert;Ciencia Ficción;1965;5
+978-0-06-085052-4;Sapiens;Yuval Noah Harari;Ensayo;2011;2
+978-0-307-47476-9;Breve historia del tiempo;Stephen Hawking;Divulgación Científica;1988;2
+978-0-14-303943-3;Crónica de una muerte anunciada;Gabriel García Márquez;Novela;1981;3

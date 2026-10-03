@@ -1,0 +1,200 @@
+978-950-01-1001-2;Libro 1;Gabriel García Márquez;Novela;1951;2
+978-950-02-1002-3;Libro 2;Isabel Allende;Cuento;1952;3
+978-950-03-1003-4;Libro 3;Jorge Luis Borges;Misterio;1953;4
+978-950-04-1004-5;Libro 4;Umberto Eco;Ciencia Ficción;1954;5
+978-950-05-1005-6;Libro 5;George Orwell;Drama;1955;1
+978-950-06-1006-7;Libro 6;Ernesto Sabato;Historia;1956;2
+978-950-07-1007-8;Libro 7;Julio Cortázar;Novela;1957;3
+978-950-08-1008-9;Libro 8;Mario Vargas Llosa;Cuento;1958;4
+978-950-09-1009-1;Libro 9;Adolfo Bioy Casares;Misterio;1959;5
+978-950-10-1010-2;Libro 10;José Saramago;Ciencia Ficción;1960;1
+978-950-11-1011-3;Libro 11;Gabriel García Márquez;Drama;1961;2
+978-950-12-1012-4;Libro 12;Isabel Allende;Historia;1962;3
+978-950-13-1013-5;Libro 13;Jorge Luis Borges;Novela;1963;4
+978-950-14-1014-6;Libro 14;Umberto Eco;Cuento;1964;5
+978-950-15-1015-7;Libro 15;George Orwell;Misterio;1965;1
+978-950-16-1016-8;Libro 16;Ernesto Sabato;Ciencia Ficción;1966;2
+978-950-17-1017-9;Libro 17;Julio Cortázar;Drama;1967;3
+978-950-18-1018-1;Libro 18;Mario Vargas Llosa;Historia;1968;4
+978-950-19-1019-2;Libro 19;Adolfo Bioy Casares;Novela;1969;5
+978-950-20-1020-3;Libro 20;José Saramago;Cuento;1970;1
+978-950-21-1021-4;Libro 21;Gabriel García Márquez;Misterio;1971;2
+978-950-22-1022-5;Libro 22;Isabel Allende;Ciencia Ficción;1972;3
+978-950-23-1023-6;Libro 23;Jorge Luis Borges;Drama;1973;4
+978-950-24-1024-7;Libro 24;Umberto Eco;Historia;1974;5
+978-950-25-1025-8;Libro 25;George Orwell;Novela;1975;1
+978-950-26-1026-9;Libro 26;Ernesto Sabato;Cuento;1976;2
+978-950-27-1027-1;Libro 27;Julio Cortázar;Misterio;1977;3
+978-950-28-1028-2;Libro 28;Mario Vargas Llosa;Ciencia Ficción;1978;4
+978-950-29-1029-3;Libro 29;Adolfo Bioy Casares;Drama;1979;5
+978-950-30-1030-4;Libro 30;José Saramago;Historia;1980;1
+978-950-31-1031-5;Libro 31;Gabriel García Márquez;Novela;1981;2
+978-950-32-1032-6;Libro 32;Isabel Allende;Cuento;1982;3
+978-950-33-1033-7;Libro 33;Jorge Luis Borges;Misterio;1983;4
+978-950-34-1034-8;Libro 34;Umberto Eco;Ciencia Ficción;1984;5
+978-950-35-1035-9;Libro 35;George Orwell;Drama;1985;1
+978-950-36-1036-1;Libro 36;Ernesto Sabato;Historia;1986;2
+978-950-37-1037-2;Libro 37;Julio Cortázar;Novela;1987;3
+978-950-38-1038-3;Libro 38;Mario Vargas Llosa;Cuento;1988;4
+978-950-39-1039-4;Libro 39;Adolfo Bioy Casares;Misterio;1989;5
+978-950-40-1040-5;Libro 40;José Saramago;Ciencia Ficción;1990;1
+978-950-41-1041-6;Libro 41;Gabriel García Márquez;Drama;1991;2
+978-950-42-1042-7;Libro 42;Isabel Allende;Historia;1992;3
+978-950-43-1043-8;Libro 43;Jorge Luis Borges;Novela;1993;4
+978-950-44-1044-9;Libro 44;Umberto Eco;Cuento;1994;5
+978-950-45-1045-1;Libro 45;George Orwell;Misterio;1995;1
+978-950-46-1046-2;Libro 46;Ernesto Sabato;Ciencia Ficción;1996;2
+978-950-47-1047-3;Libro 47;Julio Cortázar;Drama;1997;3
+978-950-48-1048-4;Libro 48;Mario Vargas Llosa;Historia;1998;4
+978-950-49-1049-5;Libro 49;Adolfo Bioy Casares;Novela;1999;5
+978-950-50-1050-6;Libro 50;José Saramago;Cuento;2000;1
+978-950-51-1051-7;Libro 51;Gabriel García Márquez;Misterio;2001;2
+978-950-52-1052-8;Libro 52;Isabel Allende;Ciencia Ficción;2002;3
+978-950-53-1053-9;Libro 53;Jorge Luis Borges;Drama;2003;4
+978-950-54-1054-1;Libro 54;Umberto Eco;Historia;2004;5
+978-950-55-1055-2;Libro 55;George Orwell;Novela;2005;1
+978-950-56-1056-3;Libro 56;Ernesto Sabato;Cuento;2006;2
+978-950-57-1057-4;Libro 57;Julio Cortázar;Misterio;2007;3
+978-950-58-1058-5;Libro 58;Mario Vargas Llosa;Ciencia Ficción;2008;4
+978-950-59-1059-6;Libro 59;Adolfo Bioy Casares;Drama;2009;5
+978-950-60-1060-7;Libro 60;José Saramago;Historia;2010;1
+978-950-61-1061-8;Libro 61;Gabriel García Márquez;Novela;2011;2
+978-950-62-1062-9;Libro 62;Isabel Allende;Cuento;2012;3
+978-950-63-1063-1;Libro 63;Jorge Luis Borges;Misterio;2013;4
+978-950-64-1064-2;Libro 64;Umberto Eco;Ciencia Ficción;2014;5
+978-950-65-1065-3;Libro 65;George Orwell;Drama;2015;1
+978-950-66-1066-4;Libro 66;Ernesto Sabato;Historia;2016;2
+978-950-67-1067-5;Libro 67;Julio Cortázar;Novela;2017;3
+978-950-68-1068-6;Libro 68;Mario Vargas Llosa;Cuento;2018;4
+978-950-69-1069-7;Libro 69;Adolfo Bioy Casares;Misterio;2019;5
+978-950-70-1070-8;Libro 70;José Saramago;Ciencia Ficción;2020;1
+978-950-71-1071-9;Libro 71;Gabriel García Márquez;Drama;2021;2
+978-950-72-1072-1;Libro 72;Isabel Allende;Historia;2022;3
+978-950-73-1073-2;Libro 73;Jorge Luis Borges;Novela;2023;4
+978-950-74-1074-3;Libro 74;Umberto Eco;Cuento;2024;5
+978-950-75-1075-4;Libro 75;George Orwell;Misterio;1950;1
+978-950-76-1076-5;Libro 76;Ernesto Sabato;Ciencia Ficción;1951;2
+978-950-77-1077-6;Libro 77;Julio Cortázar;Drama;1952;3
+978-950-78-1078-7;Libro 78;Mario Vargas Llosa;Historia;1953;4
+978-950-79-1079-8;Libro 79;Adolfo Bioy Casares;Novela;1954;5
+978-950-80-1080-9;Libro 80;José Saramago;Cuento;1955;1
+978-950-81-1081-1;Libro 81;Gabriel García Márquez;Misterio;1956;2
+978-950-82-1082-2;Libro 82;Isabel Allende;Ciencia Ficción;1957;3
+978-950-83-1083-3;Libro 83;Jorge Luis Borges;Drama;1958;4
+978-950-84-1084-4;Libro 84;Umberto Eco;Historia;1959;5
+978-950-85-1085-5;Libro 85;George Orwell;Novela;1960;1
+978-950-86-1086-6;Libro 86;Ernesto Sabato;Cuento;1961;2
+978-950-87-1087-7;Libro 87;Julio Cortázar;Misterio;1962;3
+978-950-88-1088-8;Libro 88;Mario Vargas Llosa;Ciencia Ficción;1963;4
+978-950-89-1089-9;Libro 89;Adolfo Bioy Casares;Drama;1964;5
+978-950-90-1090-1;Libro 90;José Saramago;Historia;1965;1
+978-950-91-1091-2;Libro 91;Gabriel García Márquez;Novela;1966;2
+978-950-92-1092-3;Libro 92;Isabel Allende;Cuento;1967;3
+978-950-93-1093-4;Libro 93;Jorge Luis Borges;Misterio;1968;4
+978-950-94-1094-5;Libro 94;Umberto Eco;Ciencia Ficción;1969;5
+978-950-95-1095-6;Libro 95;George Orwell;Drama;1970;1
+978-950-96-1096-7;Libro 96;Ernesto Sabato;Historia;1971;2
+978-950-97-1097-8;Libro 97;Julio Cortázar;Novela;1972;3
+978-950-98-1098-9;Libro 98;Mario Vargas Llosa;Cuento;1973;4
+978-950-99-1099-1;Libro 99;Adolfo Bioy Casares;Misterio;1974;5
+978-950-100-1100-2;Libro 100;José Saramago;Ciencia Ficción;1975;1
+978-950-101-1101-3;Libro 101;Gabriel García Márquez;Drama;1976;2
+978-950-102-1102-4;Libro 102;Isabel Allende;Historia;1977;3
+978-950-103-1103-5;Libro 103;Jorge Luis Borges;Novela;1978;4
+978-950-104-1104-6;Libro 104;Umberto Eco;Cuento;1979;5
+978-950-105-1105-7;Libro 105;George Orwell;Misterio;1980;1
+978-950-106-1106-8;Libro 106;Ernesto Sabato;Ciencia Ficción;1981;2
+978-950-107-1107-9;Libro 107;Julio Cortázar;Drama;1982;3
+978-950-108-1108-1;Libro 108;Mario Vargas Llosa;Historia;1983;4
+978-950-109-1109-2;Libro 109;Adolfo Bioy Casares;Novela;1984;5
+978-950-110-1110-3;Libro 110;José Saramago;Cuento;1985;1
+978-950-111-1111-4;Libro 111;Gabriel García Márquez;Misterio;1986;2
+978-950-112-1112-5;Libro 112;Isabel Allende;Ciencia Ficción;1987;3
+978-950-113-1113-6;Libro 113;Jorge Luis Borges;Drama;1988;4
+978-950-114-1114-7;Libro 114;Umberto Eco;Historia;1989;5
+978-950-115-1115-8;Libro 115;George Orwell;Novela;1990;1
+978-950-116-1116-9;Libro 116;Ernesto Sabato;Cuento;1991;2
+978-950-117-1117-1;Libro 117;Julio Cortázar;Misterio;1992;3
+978-950-118-1118-2;Libro 118;Mario Vargas Llosa;Ciencia Ficción;1993;4
+978-950-119-1119-3;Libro 119;Adolfo Bioy Casares;Drama;1994;5
+978-950-120-1120-4;Libro 120;José Saramago;Historia;1995;1
+978-950-121-1121-5;Libro 121;Gabriel García Márquez;Novela;1996;2
+978-950-122-1122-6;Libro 122;Isabel Allende;Cuento;1997;3
+978-950-123-1123-7;Libro 123;Jorge Luis Borges;Misterio;1998;4
+978-950-124-1124-8;Libro 124;Umberto Eco;Ciencia Ficción;1999;5
+978-950-125-1125-9;Libro 125;George Orwell;Drama;2000;1
+978-950-126-1126-1;Libro 126;Ernesto Sabato;Historia;2001;2
+978-950-127-1127-2;Libro 127;Julio Cortázar;Novela;2002;3
+978-950-128-1128-3;Libro 128;Mario Vargas Llosa;Cuento;2003;4
+978-950-129-1129-4;Libro 129;Adolfo Bioy Casares;Misterio;2004;5
+978-950-130-1130-5;Libro 130;José Saramago;Ciencia Ficción;2005;1
+978-950-131-1131-6;Libro 131;Gabriel García Márquez;Drama;2006;2
+978-950-132-1132-7;Libro 132;Isabel Allende;Historia;2007;3
+978-950-133-1133-8;Libro 133;Jorge Luis Borges;Novela;2008;4
+978-950-134-1134-9;Libro 134;Umberto Eco;Cuento;2009;5
+978-950-135-1135-1;Libro 135;George Orwell;Misterio;2010;1
+978-950-136-1136-2;Libro 136;Ernesto Sabato;Ciencia Ficción;2011;2
+978-950-137-1137-3;Libro 137;Julio Cortázar;Drama;2012;3
+978-950-138-1138-4;Libro 138;Mario Vargas Llosa;Historia;2013;4
+978-950-139-1139-5;Libro 139;Adolfo Bioy Casares;Novela;2014;5
+978-950-140-1140-6;Libro 140;José Saramago;Cuento;2015;1
+978-950-141-1141-7;Libro 141;Gabriel García Márquez;Misterio;2016;2
+978-950-142-1142-8;Libro 142;Isabel Allende;Ciencia Ficción;2017;3
+978-950-143-1143-9;Libro 143;Jorge Luis Borges;Drama;2018;4
+978-950-144-1144-1;Libro 144;Umberto Eco;Historia;2019;5
+978-950-145-1145-2;Libro 145;George Orwell;Novela;2020;1
+978-950-146-1146-3;Libro 146;Ernesto Sabato;Cuento;2021;2
+978-950-147-1147-4;Libro 147;Julio Cortázar;Misterio;2022;3
+978-950-148-1148-5;Libro 148;Mario Vargas Llosa;Ciencia Ficción;2023;4
+978-950-149-1149-6;Libro 149;Adolfo Bioy Casares;Drama;2024;5
+978-950-150-1150-7;Libro 150;José Saramago;Historia;1950;1
+978-950-151-1151-8;Libro 151;Gabriel García Márquez;Novela;1951;2
+978-950-152-1152-9;Libro 152;Isabel Allende;Cuento;1952;3
+978-950-153-1153-1;Libro 153;Jorge Luis Borges;Misterio;1953;4
+978-950-154-1154-2;Libro 154;Umberto Eco;Ciencia Ficción;1954;5
+978-950-155-1155-3;Libro 155;George Orwell;Drama;1955;1
+978-950-156-1156-4;Libro 156;Ernesto Sabato;Historia;1956;2
+978-950-157-1157-5;Libro 157;Julio Cortázar;Novela;1957;3
+978-950-158-1158-6;Libro 158;Mario Vargas Llosa;Cuento;1958;4
+978-950-159-1159-7;Libro 159;Adolfo Bioy Casares;Misterio;1959;5
+978-950-160-1160-8;Libro 160;José Saramago;Ciencia Ficción;1960;1
+978-950-161-1161-9;Libro 161;Gabriel García Márquez;Drama;1961;2
+978-950-162-1162-1;Libro 162;Isabel Allende;Historia;1962;3
+978-950-163-1163-2;Libro 163;Jorge Luis Borges;Novela;1963;4
+978-950-164-1164-3;Libro 164;Umberto Eco;Cuento;1964;5
+978-950-165-1165-4;Libro 165;George Orwell;Misterio;1965;1
+978-950-166-1166-5;Libro 166;Ernesto Sabato;Ciencia Ficción;1966;2
+978-950-167-1167-6;Libro 167;Julio Cortázar;Drama;1967;3
+978-950-168-1168-7;Libro 168;Mario Vargas Llosa;Historia;1968;4
+978-950-169-1169-8;Libro 169;Adolfo Bioy Casares;Novela;1969;5
+978-950-170-1170-9;Libro 170;José Saramago;Cuento;1970;1
+978-950-171-1171-1;Libro 171;Gabriel García Márquez;Misterio;1971;2
+978-950-172-1172-2;Libro 172;Isabel Allende;Ciencia Ficción;1972;3
+978-950-173-1173-3;Libro 173;Jorge Luis Borges;Drama;1973;4
+978-950-174-1174-4;Libro 174;Umberto Eco;Historia;1974;5
+978-950-175-1175-5;Libro 175;George Orwell;Novela;1975;1
+978-950-176-1176-6;Libro 176;Ernesto Sabato;Cuento;1976;2
+978-950-177-1177-7;Libro 177;Julio Cortázar;Misterio;1977;3
+978-950-178-1178-8;Libro 178;Mario Vargas Llosa;Ciencia Ficción;1978;4
+978-950-179-1179-9;Libro 179;Adolfo Bioy Casares;Drama;1979;5
+978-950-180-1180-1;Libro 180;José Saramago;Historia;1980;1
+978-950-181-1181-2;Libro 181;Gabriel García Márquez;Novela;1981;2
+978-950-182-1182-3;Libro 182;Isabel Allende;Cuento;1982;3
+978-950-183-1183-4;Libro 183;Jorge Luis Borges;Misterio;1983;4
+978-950-184-1184-5;Libro 184;Umberto Eco;Ciencia Ficción;1984;5
+978-950-185-1185-6;Libro 185;George Orwell;Drama;1985;1
+978-950-186-1186-7;Libro 186;Ernesto Sabato;Historia;1986;2
+978-950-187-1187-8;Libro 187;Julio Cortázar;Novela;1987;3
+978-950-188-1188-9;Libro 188;Mario Vargas Llosa;Cuento;1988;4
+978-950-189-1189-1;Libro 189;Adolfo Bioy Casares;Misterio;1989;5
+978-950-190-1190-2;Libro 190;José Saramago;Ciencia Ficción;1990;1
+978-950-191-1191-3;Libro 191;Gabriel García Márquez;Drama;1991;2
+978-950-192-1192-4;Libro 192;Isabel Allende;Historia;1992;3
+978-950-193-1193-5;Libro 193;Jorge Luis Borges;Novela;1993;4
+978-950-194-1194-6;Libro 194;Umberto Eco;Cuento;1994;5
+978-950-195-1195-7;Libro 195;George Orwell;Misterio;1995;1
+978-950-196-1196-8;Libro 196;Ernesto Sabato;Ciencia Ficción;1996;2
+978-950-197-1197-9;Libro 197;Julio Cortázar;Drama;1997;3
+978-950-198-1198-1;Libro 198;Mario Vargas Llosa;Historia;1998;4
+978-950-199-1199-2;Libro 199;Adolfo Bioy Casares;Novela;1999;5
+978-950-200-1200-3;Libro 200;José Saramago;Cuento;2000;1

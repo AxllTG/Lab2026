@@ -1,0 +1,5 @@
+S001;Juan;Perez;juan.perez@mail.com;true
+S002;Maria;Gomez;maria.gomez@mail.com;true
+S003;Carlos;Lopez;carlos.lopez@mail.com;false
+S004;Ana;Martinez;ana.martinez@mail.com;true
+S005;Luis;Fernandez;luis.fernandez@mail.com;true

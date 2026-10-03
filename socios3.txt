@@ -1,0 +1,5 @@
+B100;Lucia;Ramirez;lucia.ramirez@mail.com;true
+B101;Tomas;Vega;tomas.vega@mail.com;true
+B102;Sofia;Castro;sofia.castro@mail.com;false
+B103;Mateo;Silva;mateo.silva@mail.com;true
+B104;Valentina;Rojas;valentina.rojas@mail.com;true
